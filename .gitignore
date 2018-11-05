@@ -1,3 +1,6 @@
+#secrets
+git.secret
+
 # built files
 dist
 
